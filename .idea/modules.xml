@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/00-access-modifiers/00-access-modifiers.iml" filepath="$PROJECT_DIR$/00-access-modifiers/00-access-modifiers.iml" />
       <module fileurl="file://$PROJECT_DIR$/01-static-keyword/01-static-keyword.iml" filepath="$PROJECT_DIR$/01-static-keyword/01-static-keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-static-code-blocks/02-static-code-blocks.iml" filepath="$PROJECT_DIR$/02-static-code-blocks/02-static-code-blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-final-keyword/03-final-keyword.iml" filepath="$PROJECT_DIR$/03-final-keyword/03-final-keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-encapsulation/04-encapsulation.iml" filepath="$PROJECT_DIR$/04-encapsulation/04-encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-inter-class-relations/05-inter-class-relations.iml" filepath="$PROJECT_DIR$/05-inter-class-relations/05-inter-class-relations.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
     </modules>
   </component>

@@ -8,6 +8,11 @@
       <module fileurl="file://$PROJECT_DIR$/03-final-keyword/03-final-keyword.iml" filepath="$PROJECT_DIR$/03-final-keyword/03-final-keyword.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-encapsulation/04-encapsulation.iml" filepath="$PROJECT_DIR$/04-encapsulation/04-encapsulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-inter-class-relations/05-inter-class-relations.iml" filepath="$PROJECT_DIR$/05-inter-class-relations/05-inter-class-relations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-inheritance/06-inheritance.iml" filepath="$PROJECT_DIR$/06-inheritance/06-inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-method-overriding/07-method-overriding.iml" filepath="$PROJECT_DIR$/07-method-overriding/07-method-overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-polymorphism/08-polymorphism.iml" filepath="$PROJECT_DIR$/08-polymorphism/08-polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09-abstraction/09-abstraction.iml" filepath="$PROJECT_DIR$/09-abstraction/09-abstraction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-interface/10-interface.iml" filepath="$PROJECT_DIR$/10-interface/10-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
     </modules>
   </component>

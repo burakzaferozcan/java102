@@ -13,6 +13,7 @@
       <module fileurl="file://$PROJECT_DIR$/08-polymorphism/08-polymorphism.iml" filepath="$PROJECT_DIR$/08-polymorphism/08-polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/09-abstraction/09-abstraction.iml" filepath="$PROJECT_DIR$/09-abstraction/09-abstraction.iml" />
       <module fileurl="file://$PROJECT_DIR$/10-interface/10-interface.iml" filepath="$PROJECT_DIR$/10-interface/10-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-adventure-game/11-adventure-game.iml" filepath="$PROJECT_DIR$/11-adventure-game/11-adventure-game.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
     </modules>
   </component>

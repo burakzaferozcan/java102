@@ -3,14 +3,19 @@ import java.util.Scanner;
 public class Player {
     private int damage;
     private int health;
+    private int originalHealth;
     private int money;
     private String name;
     private String charName;
     private Scanner input = new Scanner(System.in);
+    private Inventory inventory;
+
 
     public Player(String name) {
         this.name = name;
+        this.inventory = new Inventory();
     }
+
 
     public void selectChar() {
         GameChar[] charList = {new Samurai(), new Archer(), new Knight()};
@@ -41,11 +46,28 @@ public class Player {
                 " | Para : " + this.getMoney());
     }
 
+
     public void initPlayer(GameChar gameChar) {
         this.setDamage(gameChar.getDamage());
         this.setHealth(gameChar.getHealth());
         this.setMoney(gameChar.getMoney());
         this.setCharName(gameChar.getName());
+        this.setOriginalHealth(gameChar.getHealth());
+
+    }
+
+    public void printInfo() {
+        System.out.println("Silahınız : " + this.getInventory().getWeapon().getName() +
+                " | Zırhınız : " + this.getInventory().getArmor().getName() +
+                " | Bloklamanız : " + this.getInventory().getArmor().getBlock() +
+                " | Hasarınız : " + this.getTotalDamage() +
+                " | Sağlığınız : " + this.getHealth() +
+                " | Paranız : " + this.getMoney());
+    }
+
+    public int getTotalDamage() {
+        return damage + this.getInventory().getWeapon().getDamage();
+
     }
 
     public int getDamage() {
@@ -57,10 +79,14 @@ public class Player {
     }
 
     public int getHealth() {
+
         return health;
     }
 
     public void setHealth(int health) {
+        if (health < 0) {
+            health = 0;
+        }
         this.health = health;
     }
 
@@ -86,5 +112,21 @@ public class Player {
 
     public void setCharName(String charName) {
         this.charName = charName;
+    }
+
+    public Inventory getInventory() {
+        return inventory;
+    }
+
+    public void setInventory(Inventory inventory) {
+        this.inventory = inventory;
+    }
+
+    public int getOriginalHealth() {
+        return originalHealth;
+    }
+
+    public void setOriginalHealth(int originalHealth) {
+        this.originalHealth = originalHealth;
     }
 }

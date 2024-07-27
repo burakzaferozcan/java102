@@ -17,6 +17,11 @@
       <module fileurl="file://$PROJECT_DIR$/12-nested-and-inner-classes/12-nested-and-inner-classes.iml" filepath="$PROJECT_DIR$/12-nested-and-inner-classes/12-nested-and-inner-classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/13-wrapper-classes/13-wrapper-classes.iml" filepath="$PROJECT_DIR$/13-wrapper-classes/13-wrapper-classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/14-autoboxing-and-unboxing/14-autoboxing-and-unboxing.iml" filepath="$PROJECT_DIR$/14-autoboxing-and-unboxing/14-autoboxing-and-unboxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-generic-classes/15-generic-classes.iml" filepath="$PROJECT_DIR$/15-generic-classes/15-generic-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-generic-methods/16-generic-methods.iml" filepath="$PROJECT_DIR$/16-generic-methods/16-generic-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-generic-interfaces/17-generic-interfaces.iml" filepath="$PROJECT_DIR$/17-generic-interfaces/17-generic-interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-bounded-types/18-bounded-types.iml" filepath="$PROJECT_DIR$/18-bounded-types/18-bounded-types.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-my-list-class/19-my-list-class.iml" filepath="$PROJECT_DIR$/19-my-list-class/19-my-list-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
     </modules>
   </component>

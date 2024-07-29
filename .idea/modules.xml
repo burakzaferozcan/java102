@@ -22,6 +22,15 @@
       <module fileurl="file://$PROJECT_DIR$/17-generic-interfaces/17-generic-interfaces.iml" filepath="$PROJECT_DIR$/17-generic-interfaces/17-generic-interfaces.iml" />
       <module fileurl="file://$PROJECT_DIR$/18-bounded-types/18-bounded-types.iml" filepath="$PROJECT_DIR$/18-bounded-types/18-bounded-types.iml" />
       <module fileurl="file://$PROJECT_DIR$/19-my-list-class/19-my-list-class.iml" filepath="$PROJECT_DIR$/19-my-list-class/19-my-list-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20-exception-handling/20-exception-handling.iml" filepath="$PROJECT_DIR$/20-exception-handling/20-exception-handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21-use-of-try-catch-finally/21-use-of-try-catch-finally.iml" filepath="$PROJECT_DIR$/21-use-of-try-catch-finally/21-use-of-try-catch-finally.iml" />
+      <module fileurl="file://$PROJECT_DIR$/22-use-of-throw/22-use-of-throw.iml" filepath="$PROJECT_DIR$/22-use-of-throw/22-use-of-throw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/23-exception-creation/23-exception-creation.iml" filepath="$PROJECT_DIR$/23-exception-creation/23-exception-creation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24-JCF-collection-interface/24-JCF-collection-interface.iml" filepath="$PROJECT_DIR$/24-JCF-collection-interface/24-JCF-collection-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/25-JCF-set-interface-and-hashset/25-JCF-set-interface-and-hashset.iml" filepath="$PROJECT_DIR$/25-JCF-set-interface-and-hashset/25-JCF-set-interface-and-hashset.iml" />
+      <module fileurl="file://$PROJECT_DIR$/26-JCF-LinkedHashSet/26-JCF-LinkedHashSet.iml" filepath="$PROJECT_DIR$/26-JCF-LinkedHashSet/26-JCF-LinkedHashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/27-JCF-TreeSet/27-JCF-TreeSet.iml" filepath="$PROJECT_DIR$/27-JCF-TreeSet/27-JCF-TreeSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28-JCF-ArrayList/28-JCF-ArrayList.iml" filepath="$PROJECT_DIR$/28-JCF-ArrayList/28-JCF-ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
     </modules>
   </component>

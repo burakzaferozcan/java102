@@ -1,21 +1,39 @@
-# Collection Arayüzü (interface)
-“Collection” interface’den kalıtım alan alt sınıflar “java.util” paketi altında toplanmıştır. “Collection” interface ile liste tipinde veri tutan bir veri yapısında hangi işlevlerin olması gerektiği belirtilmiştir. Liste tipinde veri tutacak olan her sınıf doğrudan veya dolaylı yoldan bu interface’den kalıtım almalıdır. Bu nedenle soyağacının en tepesinde “Collection” interface yer almaktadır.
+# Set interface (Arayüzü)
+Collection interface’den kalıtım almıştır. Aynı elemanların veri kümesi içinde tekrar bulunmasına izin vermez. HashSet sınıfı en yaygın olan alt sınıfıdır. Eleman tekrarının olmamasını sağlayabilmek için veri kümesi içindeki nesnelerin “equals” ve “hashCode” fonksiyonlarının tanımlı olması gerekir.
 
-Java Collection sınıfları ile liste halindeki veri üzerinde arama, ekleme, silme, sıralama gibi işlemler yapabilirsiniz.
+## Set interface’in alt sınıfları:
+- HashSet
+- LinkedHashSet
+- TreeSet
 
-Biliyoruzki interface’ler de birbirinden kalıtım alabilir. “Collection” interface’den kalıtım almış en önemli arayüzler “List”, “Queue”, “Set” interface’leridir.
+### HashSet Sınıfı
+Liste tipinde veri tutmayı sağlar. Veri kümesindeki elemanlara ekleme, silme ve erişim imkanı tanır. Veri kümesinde mükerrer değer tutmaz. Mükerrer değer tutmamayı nesnelerdeki hashCode fonksiyonunu kullanarak sağlar. “null” değer eklemesi yapılabilir.
 
-Bu üç interface’den kalıtım alan alt sınıflar ise aşağıdaki gibidir.
+“equals” ve “hasCode” fonksiyonları doldurulmuş bir Book sınıfı tasarladık. Book nesnelerinden oluşan bir veri kümesi oluşturduk.
 
-- List interface’den kalıtım alan alt sınıflar: ArrayList, LinkedList, Vector, Stack
-- Queue interface’den kalıtım alan alt sınıflar: PriorityQueue, ArrayQueue
-- Set interface’den kalıtım alan alt sınıflar: HashSet, LinkedHashSet, TreeSet
-  
-Collection interface’den türeyen alt sınıfların sağlamak zorunda olduğu fonksiyonlar:
+```java
+import java.util.HashSet;
+import java.util.Iterator;
 
-![0](images/0.png)
-
-Collection interface’den kalıtım alan alt sınıfları kendiniz de türetebilirsiniz.
-
-![1](images/1.png)
-
+public class HSet {
+    public static void main(String[] args) {
+// f(x) = x*3 * xmod7 * sqrt(x)
+        HashSet<String> h = new HashSet<>();
+        h.add("a");
+        h.add("b");
+        h.add("z");
+        h.add(null);
+        h.remove("b");
+        System.out.println(h.size());
+        System.out.println(h.contains("b"));
+        for (String s : h) {
+            System.out.println(s);
+        }
+        // Itertor kullanarak gezinmek
+        Iterator<String> itr = h.iterator();
+        while (itr.hasNext()) {
+            System.out.println(itr.next());
+        }
+    }
+}
+```

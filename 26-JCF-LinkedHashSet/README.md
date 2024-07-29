@@ -1,39 +1,24 @@
-# Set interface (Arayüzü)
-Collection interface’den kalıtım almıştır. Aynı elemanların veri kümesi içinde tekrar bulunmasına izin vermez. HashSet sınıfı en yaygın olan alt sınıfıdır. Eleman tekrarının olmamasını sağlayabilmek için veri kümesi içindeki nesnelerin “equals” ve “hashCode” fonksiyonlarının tanımlı olması gerekir.
-
-## Set interface’in alt sınıfları:
-- HashSet
-- LinkedHashSet
-- TreeSet
-
-### HashSet Sınıfı
-Liste tipinde veri tutmayı sağlar. Veri kümesindeki elemanlara ekleme, silme ve erişim imkanı tanır. Veri kümesinde mükerrer değer tutmaz. Mükerrer değer tutmamayı nesnelerdeki hashCode fonksiyonunu kullanarak sağlar. “null” değer eklemesi yapılabilir.
-
-“equals” ve “hasCode” fonksiyonları doldurulmuş bir Book sınıfı tasarladık. Book nesnelerinden oluşan bir veri kümesi oluşturduk.
+# LinkedHashSet
+LinkedHashSet, tüm öğeler arasında çift bağlantılı bir Liste tutan sıralı bir HashSet sürümüdür. Yineleme sırasının korunması gerektiğinde bu sınıf kullanılır. Bir HashSet aracılığıyla yinelendiğinde, sıra öngörülemezken, LinkedHashSet öğeler arasında eklendikleri sırayla yineleme yapmamıza izin verir. Bir yineleyici kullanarak LinkedHashSet üzerinden geçiş yaparken, öğeler eklendikleri sırayla döndürülür.
 
 ```java
-import java.util.HashSet;
-import java.util.Iterator;
+import java.util.LinkedHashSet;
 
-public class HSet {
+public class LHashSet {
     public static void main(String[] args) {
-// f(x) = x*3 * xmod7 * sqrt(x)
-        HashSet<String> h = new HashSet<>();
-        h.add("a");
-        h.add("b");
-        h.add("z");
-        h.add(null);
-        h.remove("b");
-        System.out.println(h.size());
-        System.out.println(h.contains("b"));
-        for (String s : h) {
-            System.out.println(s);
+        LinkedHashSet<String> days = new LinkedHashSet<>();
+        days.add("Pazartesi");
+        days.add("Salı");
+        days.add("Çarşamba");
+        days.add("Perşembe");
+        days.add("Cuma");
+        days.add("Cumartesi");
+        days.add("Pazar");
+        days.remove("Pazar");
+        for (String day : days) {
+            System.out.println(day);
         }
-        // Itertor kullanarak gezinmek
-        Iterator<String> itr = h.iterator();
-        while (itr.hasNext()) {
-            System.out.println(itr.next());
-        }
+
     }
 }
 ```

@@ -31,6 +31,15 @@
       <module fileurl="file://$PROJECT_DIR$/26-JCF-LinkedHashSet/26-JCF-LinkedHashSet.iml" filepath="$PROJECT_DIR$/26-JCF-LinkedHashSet/26-JCF-LinkedHashSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/27-JCF-TreeSet/27-JCF-TreeSet.iml" filepath="$PROJECT_DIR$/27-JCF-TreeSet/27-JCF-TreeSet.iml" />
       <module fileurl="file://$PROJECT_DIR$/28-JCF-ArrayList/28-JCF-ArrayList.iml" filepath="$PROJECT_DIR$/28-JCF-ArrayList/28-JCF-ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29-JCF-LinkedList/29-JCF-LinkedList.iml" filepath="$PROJECT_DIR$/29-JCF-LinkedList/29-JCF-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30-JCF-Vector/30-JCF-Vector.iml" filepath="$PROJECT_DIR$/30-JCF-Vector/30-JCF-Vector.iml" />
+      <module fileurl="file://$PROJECT_DIR$/31-JCF-Queue-LinkedList/31-JCF-Queue-LinkedList.iml" filepath="$PROJECT_DIR$/31-JCF-Queue-LinkedList/31-JCF-Queue-LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/32-JCF-PriorityQueue/32-JCF-PriorityQueue.iml" filepath="$PROJECT_DIR$/32-JCF-PriorityQueue/32-JCF-PriorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/33-JCF-Map-Interface-and-HashMap/33-JCF-Map-Interface-and-HashMap.iml" filepath="$PROJECT_DIR$/33-JCF-Map-Interface-and-HashMap/33-JCF-Map-Interface-and-HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/34-JCF-LinkedHashMap-and-TreeMap/34-JCF-LinkedHashMap-and-TreeMap.iml" filepath="$PROJECT_DIR$/34-JCF-LinkedHashMap-and-TreeMap/34-JCF-LinkedHashMap-and-TreeMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/35-JCF-example-book-sorter/35-JCF-example-book-sorter.iml" filepath="$PROJECT_DIR$/35-JCF-example-book-sorter/35-JCF-example-book-sorter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/36-JCF-example-football-fixture-builder/36-JCF-example-football-fixture-builder.iml" filepath="$PROJECT_DIR$/36-JCF-example-football-fixture-builder/36-JCF-example-football-fixture-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/37-patika-store/37-patika-store.iml" filepath="$PROJECT_DIR$/37-patika-store/37-patika-store.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
     </modules>
   </component>

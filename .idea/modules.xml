@@ -45,6 +45,7 @@
       <module fileurl="file://$PROJECT_DIR$/40-FileInputStream-class/40-FileInputStream-class.iml" filepath="$PROJECT_DIR$/40-FileInputStream-class/40-FileInputStream-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/41-FileOutputStream-class/41-FileOutputStream-class.iml" filepath="$PROJECT_DIR$/41-FileOutputStream-class/41-FileOutputStream-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/42-ByteArrayInputStream-ByteArrayOutputStream-classes/42-ByteArrayInputStream-ByteArrayOutputStream-classes.iml" filepath="$PROJECT_DIR$/42-ByteArrayInputStream-ByteArrayOutputStream-classes/42-ByteArrayInputStream-ByteArrayOutputStream-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/43-serialization-ObjectStream-class/43-serialization-ObjectStream-class.iml" filepath="$PROJECT_DIR$/43-serialization-ObjectStream-class/43-serialization-ObjectStream-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
     </modules>
   </component>

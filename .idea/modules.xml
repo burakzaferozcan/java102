@@ -54,6 +54,9 @@
       <module fileurl="file://$PROJECT_DIR$/49-BufferedReader-and-BufferedWriter-classes/49-BufferedReader-and-BufferedWriter-classes.iml" filepath="$PROJECT_DIR$/49-BufferedReader-and-BufferedWriter-classes/49-BufferedReader-and-BufferedWriter-classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/50-PrintWriter-class/50-PrintWriter-class.iml" filepath="$PROJECT_DIR$/50-PrintWriter-class/50-PrintWriter-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/51-what-is-JDBC/51-what-is-JDBC.iml" filepath="$PROJECT_DIR$/51-what-is-JDBC/51-what-is-JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/52-database-connection/52-database-connection.iml" filepath="$PROJECT_DIR$/52-database-connection/52-database-connection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/53-database-operations-and-Statement-interface/53-database-operations-and-Statement-interface.iml" filepath="$PROJECT_DIR$/53-database-operations-and-Statement-interface/53-database-operations-and-Statement-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/54-Transaction/54-Transaction.iml" filepath="$PROJECT_DIR$/54-Transaction/54-Transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
     </modules>
   </component>

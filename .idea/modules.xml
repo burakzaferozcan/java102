@@ -46,6 +46,13 @@
       <module fileurl="file://$PROJECT_DIR$/41-FileOutputStream-class/41-FileOutputStream-class.iml" filepath="$PROJECT_DIR$/41-FileOutputStream-class/41-FileOutputStream-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/42-ByteArrayInputStream-ByteArrayOutputStream-classes/42-ByteArrayInputStream-ByteArrayOutputStream-classes.iml" filepath="$PROJECT_DIR$/42-ByteArrayInputStream-ByteArrayOutputStream-classes/42-ByteArrayInputStream-ByteArrayOutputStream-classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/43-serialization-ObjectStream-class/43-serialization-ObjectStream-class.iml" filepath="$PROJECT_DIR$/43-serialization-ObjectStream-class/43-serialization-ObjectStream-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/44-BufferedInputStream-and-BufferedOutputStream-classes/44-BufferedInputStream-and-BufferedOutputStream-classes.iml" filepath="$PROJECT_DIR$/44-BufferedInputStream-and-BufferedOutputStream-classes/44-BufferedInputStream-and-BufferedOutputStream-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/45-PrintStream-class/45-PrintStream-class.iml" filepath="$PROJECT_DIR$/45-PrintStream-class/45-PrintStream-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/46-InputStreamReader-class/46-InputStreamReader-class.iml" filepath="$PROJECT_DIR$/46-InputStreamReader-class/46-InputStreamReader-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/47-OutputStreamWriter-class/47-OutputStreamWriter-class.iml" filepath="$PROJECT_DIR$/47-OutputStreamWriter-class/47-OutputStreamWriter-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/48-FileReader-and-FileWriter-classes/48-FileReader-and-FileWriter-classes.iml" filepath="$PROJECT_DIR$/48-FileReader-and-FileWriter-classes/48-FileReader-and-FileWriter-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/49-BufferedReader-and-BufferedWriter-classes/49-BufferedReader-and-BufferedWriter-classes.iml" filepath="$PROJECT_DIR$/49-BufferedReader-and-BufferedWriter-classes/49-BufferedReader-and-BufferedWriter-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/50-PrintWriter-class/50-PrintWriter-class.iml" filepath="$PROJECT_DIR$/50-PrintWriter-class/50-PrintWriter-class.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
     </modules>
   </component>

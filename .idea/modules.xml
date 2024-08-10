@@ -58,6 +58,8 @@
       <module fileurl="file://$PROJECT_DIR$/53-database-operations-and-Statement-interface/53-database-operations-and-Statement-interface.iml" filepath="$PROJECT_DIR$/53-database-operations-and-Statement-interface/53-database-operations-and-Statement-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/54-Transaction/54-Transaction.iml" filepath="$PROJECT_DIR$/54-Transaction/54-Transaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/55-creating-and-using-Threads/55-creating-and-using-Threads.iml" filepath="$PROJECT_DIR$/55-creating-and-using-Threads/55-creating-and-using-Threads.iml" />
+      <module fileurl="file://$PROJECT_DIR$/56-Runnable-interface/56-Runnable-interface.iml" filepath="$PROJECT_DIR$/56-Runnable-interface/56-Runnable-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/57-Thread-stop-and-hold/57-Thread-stop-and-hold.iml" filepath="$PROJECT_DIR$/57-Thread-stop-and-hold/57-Thread-stop-and-hold.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
     </modules>
   </component>

@@ -68,6 +68,7 @@
       <module fileurl="file://$PROJECT_DIR$/63-Lambda-Expressions/63-Lambda-Expressions.iml" filepath="$PROJECT_DIR$/63-Lambda-Expressions/63-Lambda-Expressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/64-Stream-API/64-Stream-API.iml" filepath="$PROJECT_DIR$/64-Stream-API/64-Stream-API.iml" />
       <module fileurl="file://$PROJECT_DIR$/65-Enum-class/65-Enum-class.iml" filepath="$PROJECT_DIR$/65-Enum-class/65-Enum-class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/66-Stream-API-example/66-Stream-API-example.iml" filepath="$PROJECT_DIR$/66-Stream-API-example/66-Stream-API-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
     </modules>
   </component>

@@ -60,6 +60,10 @@
       <module fileurl="file://$PROJECT_DIR$/55-creating-and-using-Threads/55-creating-and-using-Threads.iml" filepath="$PROJECT_DIR$/55-creating-and-using-Threads/55-creating-and-using-Threads.iml" />
       <module fileurl="file://$PROJECT_DIR$/56-Runnable-interface/56-Runnable-interface.iml" filepath="$PROJECT_DIR$/56-Runnable-interface/56-Runnable-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/57-Thread-stop-and-hold/57-Thread-stop-and-hold.iml" filepath="$PROJECT_DIR$/57-Thread-stop-and-hold/57-Thread-stop-and-hold.iml" />
+      <module fileurl="file://$PROJECT_DIR$/58-Critical-Sections-and-Race-Condition/58-Critical-Sections-and-Race-Condition.iml" filepath="$PROJECT_DIR$/58-Critical-Sections-and-Race-Condition/58-Critical-Sections-and-Race-Condition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/59-volatile-keyword/59-volatile-keyword.iml" filepath="$PROJECT_DIR$/59-volatile-keyword/59-volatile-keyword.iml" />
+      <module fileurl="file://$PROJECT_DIR$/60-ThreadPooling/60-ThreadPooling.iml" filepath="$PROJECT_DIR$/60-ThreadPooling/60-ThreadPooling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/61-Threads-example/61-Threads-example.iml" filepath="$PROJECT_DIR$/61-Threads-example/61-Threads-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
     </modules>
   </component>

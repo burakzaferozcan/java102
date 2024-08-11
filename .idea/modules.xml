@@ -65,6 +65,7 @@
       <module fileurl="file://$PROJECT_DIR$/60-ThreadPooling/60-ThreadPooling.iml" filepath="$PROJECT_DIR$/60-ThreadPooling/60-ThreadPooling.iml" />
       <module fileurl="file://$PROJECT_DIR$/61-Threads-example/61-Threads-example.iml" filepath="$PROJECT_DIR$/61-Threads-example/61-Threads-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/62-Type-Casting/62-Type-Casting.iml" filepath="$PROJECT_DIR$/62-Type-Casting/62-Type-Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/63-Lambda-Expressions/63-Lambda-Expressions.iml" filepath="$PROJECT_DIR$/63-Lambda-Expressions/63-Lambda-Expressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java102.iml" filepath="$PROJECT_DIR$/.idea/java102.iml" />
     </modules>
   </component>
